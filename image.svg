@@ -1,36 +1,69 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="985px" height="550px" font-size="16px">
-
+<svg xmlns="http://www.w3.org/2000/svg" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii" font-family="monospace">
-<tspan x="15" y="30">              g@M%@%%@N Nw,,###$                  Is Lili coding? Maybe.                                                          </tspan>
-<tspan x="15" y="50">         ,$||M*|`||*%### ]m###||N$!|++                                                                                            </tspan>
-<tspan x="15" y="70">      --+*$##p!``  '! |''` '''|||##IIK%||.                                                                                        </tspan>
-<tspan x="15" y="90">    --||!#$,@L `              ''!`|j%M]%||!M                                                                                      </tspan>
-<tspan x="15" y="110">   !#$,]j'`             `.     ''''|%Wg+--*;-                                                                                    </tspan>
-<tspan x="15" y="130">  +|!/{||]                         |||||--*+.                                                                                    </tspan>
-<tspan x="15" y="150">  .,!v!'] +***##@@@     @@#****+ ` `k!i||--*+.   Languages                                                                        </tspan>
-<tspan x="15" y="170">  +|!/{||]    ...  ,       ...     *-!+LI||*_-     Python, SQL, Java, JavaScript, C, C++                                          </tspan>
-<tspan x="15" y="190">  ,.,!v!'] *._@_ + \     + _@_**   .;`!!IY:L-      HTML, CSS, JSON, LaTeX                                                          </tspan>
-<tspan x="15" y="210"> ..!!!!jlk         |   "           L'':!+!).                                                                                       </tspan>
-<tspan x="15" y="230">  --vv!!1          !               ,l~%*LK||!    Other Hobbies                                                                    </tspan>
-<tspan x="15" y="250">  +*!!!k;         /                ;,!|||+'--.            :#-                  :::::::::::       *@@@@@@@@@@.-.          @@@@@@# </tspan>
-<tspan x="15" y="270"> .,!v!'||         '===*.`          ;j!+I||*_-        =@  =@@@@@.               --       =+       -@@@@@@@@@@.  )         @''''-# </tspan>
-<tspan x="15" y="290">  --vv!!;;           :            ;,[i|--*..          *@@@@@@@@@@@@%=--.       ==       ++        %@@@@@@@@@+-*          @    -# </tspan>
-<tspan x="15" y="310">    ++==!!%     .__/'v'\-.``     }k!i||--*+.          @@@@@@@@@@@@@@@@@@       ==       **         .%@@@@@+           *@@#  *@@# </tspan>
-<tspan x="15" y="330">    +-vv!!1j      ------*'      kjk`+LI||*_-          *****************        '''''''''''       '''''''''''''         **'   **' </tspan>
-<tspan x="15" y="350">   --vv!!1%;%k                 ||[|%Wg+--*;-'              Running               Painting           Coffee               Music    </tspan>
-<tspan x="15" y="370">   +*!!!kk;kjj ..o0      ....  |",l~%*LK||!                                                                                         </tspan>
-<tspan x="15" y="390">   ..!!!!jlk|jm    '''`'*     !,[;,!|||+'_.*                                                                                       </tspan>
-<tspan x="15" y="410">    +|!/{||]@p|j           *'`;j[j!+I||*_-''                                                                                       </tspan>
-<tspan x="15" y="430">   +|!/{||]]@             ` ,;j%k~%*LK||!**'                                                                                       </tspan>
-<tspan x="15" y="450">   !#$,]j'`@@                  k%j!+!||*_-.:                                                                                       </tspan>
-<tspan x="15" y="470">  --||!|#$@@@@                %k%@k!i||--*:;'                                                                                      </tspan>
-<tspan x="15" y="490">     ^['' %@@@*--n___           %$K||%%;`,. -+                                                                                     </tspan>
-<tspan x="15" y="510">   =[' ` . %HH%%%%%H@gkilljjj%kk%".   `'i                                                                                          </tspan>
-<tspan x="15" y="550">                     Lili                                                                                                          </tspan>
+<tspan x="15" y="30">              g@M%@%%@N Nw,,###$                   </tspan>
+<tspan x="15" y="50">         ,$||M*|`||*%### ]m###||N$!|++            </tspan>
+<tspan x="15" y="70">      --+*$##p!``  '! |''` '''|||##IIK%||.        </tspan>
+<tspan x="15" y="90">    --||!#$,@L `              ''!`|j%M]%||!M      </tspan>
+<tspan x="15" y="110">   !#$,]j'`             `.     ''''|%Wg+--*;-    </tspan>
+<tspan x="15" y="130">  +|!/{||]                         |||||--*+.    </tspan>
+<tspan x="15" y="150">  .,!v!'] +***##@@@     @@#****+ ` `k!i||--*+.   </tspan>
+<tspan x="15" y="170">  +|!/{||]    ...  ,       ...     *-!+LI||*_-   </tspan>
+<tspan x="15" y="190">  ,.,!v!'] *._@_ + \     + _@_**   .;`!!IY:L-    </tspan>
+<tspan x="15" y="210"> ..!!!!jlk         |   "           L'':!+!).     </tspan>
+<tspan x="15" y="230">  --vv!!1          !               ,l~%*LK||!    </tspan>
+<tspan x="15" y="250">  +*!!!k;         /                ;,!|||+'--.   </tspan>
+<tspan x="15" y="270"> .,!v!'||         '===*.`          ;j!+I||*_-    </tspan>
+<tspan x="15" y="290">  --vv!!;;           :            ;,[i|--*..     </tspan>
+<tspan x="15" y="310">    ++==!!%     .__/'v'\-.``     }k!i||--*+.     </tspan>
+<tspan x="15" y="330">    +-vv!!1j      ------*'      kjk`+LI||*_-     </tspan>
+<tspan x="15" y="350">   --vv!!1%;%k                 ||[|%Wg+--*;-'    </tspan>
+<tspan x="15" y="370">   +*!!!kk;kjj ..o0      ....  |",l~%*LK||!      </tspan>
+<tspan x="15" y="390">   ..!!!!jlk|jm    '''`'*     !,[;,!|||+'_.*     </tspan>
+<tspan x="15" y="410">    +|!/{||]@p|j           *'`;j[j!+I||*_-''     </tspan>
+<tspan x="15" y="430">   +|!/{||]]@             ` ,;j%k~%*LK||!**'     </tspan>
+<tspan x="15" y="450">   !#$,]j'`@@                  k%j!+!||*_-.:     </tspan>
+<tspan x="15" y="470">  --||!|#$@@@@                %k%@k!i||--*:;'    </tspan>
+<tspan x="15" y="490">     ^['' %@@@*--n___           %$K||%%;`,. -+   </tspan>
+<tspan x="15" y="510">   =[' ` . %HH%%%%%H@gkilljjj%kk%".   `'i        </tspan>
+<tspan x="15" y="550">                     Lili                         </tspan>
 </text>
 
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">     Is Lili coding? Maybe.     </tspan>
+<tspan x="390" y="50">              </tspan>
+<tspan x="390" y="70"> </tspan>
+<tspan x="390" y="150">    Languages   </tspan>    
+<tspan x="390" y="170">         Python, SQL, Java, JavaScript, C, C++ </tspan>
+<tspan x="390" y="190">         HTML, CSS, JSON, LaTeX </tspan>
+<tspan x="390" y="210"></tspan>
+<tspan x="390" y="310">    Hobbies (other than coding) </tspan>
+<tspan x="390" y="330">             :#-                  :::::::::::       *@@@@@@@@@@.-.          @@@@@@#          </tspan>    
+<tspan x="390" y="350">        =@  =@@@@@.               --       =+       -@@@@@@@@@@.  )         @''''-#     </tspan>
+<tspan x="390" y="370">         *@@@@@@@@@@@@%=--.       ==       ++        %@@@@@@@@@+-*          @    -#     </tspan>
+<tspan x="390" y="390">         @@@@@@@@@@@@@@@@@@       ==       **         .%@@@@@+           *@@#  *@@#     </tspan>
+<tspan x="390" y="410">         *****************        '''''''''''       '''''''''''''         **'   **'     </tspan>
+<tspan x="390" y="450">              Running               Painting           Coffee               Music            </tspan>
+<tspan x="390" y="470"> </tspan>
+<tspan x="390" y="490"> </tspan>
+<tspan x="390" y="510"> </tspan>
+</text>
 </svg>
 
 
