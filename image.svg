@@ -46,11 +46,11 @@ text, tspan {white-space: pre;}
 </text>
 
 <text x="390" y="30" fill="#c9d1d9" class="ascii" font-family="monospace">
-<tspan x="390" y="100">    Is Lili coding? Maybe.                                                           </tspan>
-<tspan x="390" y="150">    Languages                                                                        </tspan>    
-<tspan x="390" y="170">         Python, SQL, Java, JavaScript, C, C++                                       </tspan>
-<tspan x="390" y="190">         HTML, CSS, JSON, LaTeX                                                      </tspan>
-<tspan x="390" y="250">    Hobbies (other than coding)                                                      </tspan>
+<tspan x="390" y="100">        Is Lili coding? Maybe.                                                           </tspan>
+<tspan x="390" y="150">        Languages                                                                        </tspan>    
+<tspan x="390" y="170">          Python, SQL, Java, JavaScript, C, C++                                       </tspan>
+<tspan x="390" y="190">          HTML, CSS, JSON, LaTeX                                                      </tspan>
+<tspan x="390" y="250">        Hobbies (other than coding)                                                      </tspan>
 <tspan x="390" y="290">             :#-                 :::::::::::      *@@@@@@@@@@.-.         @@@@@@#     </tspan>    
 <tspan x="390" y="310">        =@  =@@@@@.              --       =+      -@@@@@@@@@@.  )        @''''-#     </tspan>
 <tspan x="390" y="330">         *@@@@@@@@@@@@%=--.      ==       ++       %@@@@@@@@@+-*         @    -#     </tspan>
