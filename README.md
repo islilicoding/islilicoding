@@ -1,15 +1,15 @@
 <pre> 
              ```M%@%%@N Nw,,###$  
          ,$||M*|`||*%### ]m###||N$!|++            
-      --+*$##p!``  '! |''` '''|||##IIK%||.               Is Lili coding? That is for you to wonder and me to find out.
+      --+*$##p!``  '! |''` '''|||##IIK%||.              Is Lili coding? That is for you to wonder and me to find out.
     --||!#$,@L `              ''!`|j%M]%||!M      
    !#$,]j'`             `.     ''''|%Wg+--*;-                        
-  +|!/{||]                         |||||--*+.            Languages
-  .,!|!'] +***##@@@     @@#****+ ` `k!i||--*+.               Python, SQL, Java, JavaScript, C, C++
-  +|!/{||]    ...  ,       ...     *-!+LI||*_-               HTML, CSS, JSON, LaTeX
+  +|!/{||]                         |||||--*+.           Languages
+  .,!|!'] +***##@@@     @@#****+ ` `k!i||--*+.              Python, SQL, Java, JavaScript, C, C++
+  +|!/{||]    ...  ,       ...     *-!+LI||*_-              HTML, CSS, JSON, LaTeX
   ,.,!l!'] *._@_ + \     + _@_**   .;`!!IY:L-    
  ..!!!!jlk         |   "           L'':!+!).     
-  --ll!!1          !               ,l~%*LK||!            Hobbies
+  --ll!!1          !               ,l~%*LK||!           Hobbies
   +*!!!k;         /                ;,!|||+'--.   
  .,!l!'||         '===*.`          ;j!+I||*_-                :#-                  :::::::::::       *@@@@@@@@@@.-.          @@@@@@# 
   --ll!!;;           :            ;,[i|--*..            =@  =@@@@@.               --       =+       -@@@@@@@@@@.  )         @''''-#
