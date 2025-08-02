@@ -1,28 +1,6 @@
-<pre> 
-             ```M%@%%@N Nw,,###$  
-         ,$||M*|`||*%### ]m###||N$!|++            
-      --+*$##p!``  '! |''` '''|||##IIK%||.          Is Lili coding? Maybe.
-    --||!#$,@L `              ''!`|j%M]%||!M      
-   !#$,]j'`             `.     ''''|%Wg+--*;-                        
-  +|!/{||]                         |||||--*+.       Languages
-  .,!|!'] +***##@@@     @@#****+ ` `k!i||--*+.          Python, SQL, Java, JavaScript, C, C++
-  +|!/{||]    ...  ,       ...     *-!+LI||*_-          HTML, CSS, JSON, LaTeX
-  ,.,!l!'] *._@_ + \     + _@_**   .;`!!IY:L-    
- ..!!!!jlk         |   "           L'':!+!).     
-  --ll!!1          !               ,l~%*LK||!       Other Hobbies
-  +*!!!k;         /                ;,!|||+'--.   
- .,!l!'||         '===*.`          ;j!+I||*_-             :#-                :::::::::::     *@@@@@@@@@@.-.        @@@@@@# 
-  --ll!!;;           :            ;,[i|--*..         =@  =@@@@@.             --       =+     -@@@@@@@@@@.  )       @''''-#
-    ++==!!%     .__/'v'\-.``      }k!i||--*+.         *@@@@@@@@@@@@%=--.     ==       ++      %@@@@@@@@@+-*        @    -# 
-    +-ll!!1j      ------*'      kjk`+LI||*_-          @@@@@@@@@@@@@@@@@@     ==       **       .%@@@@@+         *@@#  *@@#
-   --ll!!1%;%k                 ||[|%Wg+--*;-'         *****************      '''''''''''     '''''''''''''       **'   **'
-   +*!!!kk;kjj ..o0      ....  |",l~%*LK||!                Running             Painting         Coffee             Music
-   ..!!!!jlk|jm    '''`'*     !,[;,!|||+'_.*     
-    +|!/{||]@p|j           *'`;j[j!+I||*_-''     
-   +|!/{||]]@             ` ,;j%k~%*LK||!**'     
-   !#$,]j'`@@                  k%j!+!||*_-.:     
-     ^['' %@@@*--n___           %$K||%%;`,. -+   
-   =[' ` . %HH%%%%%H@gkilljjj%kk%".   ```  
-
-                Lili (me)
-</pre>
+<a href="https://github.com/islilicoding/islilicoding">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/islilicoding/islilicoding/main/image.svg">
+    <img alt="Lili's GitHub Profile README" src="https://raw.githubusercontent.com/islilicoding/islilicoding/main/image2.svg">
+  </picture>
+</a>
