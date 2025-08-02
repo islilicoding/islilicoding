@@ -8,6 +8,12 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
 </style>
 <rect width="1100px" height="550px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii" font-family="monospace">
